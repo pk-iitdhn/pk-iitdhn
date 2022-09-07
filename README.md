@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pk-iitdhn
-- 🌱 I’m currently learning ...Android App Development
-- 💞️ I’m looking to collaborate on ... Android App Development
+- 🌱 I’m currently learning ...Machine Learning
+- 💞️ I’m looking to collaborate on ... Android App Development(Kotlin)
 
 <!---
 pk-iitdhn/pk-iitdhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
